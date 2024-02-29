@@ -1,0 +1,43 @@
+    body{
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 30px;
+    font-weight: bold;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    align-content:center;
+    text-align:center;
+    margin-top: 40px;
+    background-image: url('sphere.jpeg');
+    background-size:cover;
+ 
+ }
+   
+ 
+ .details{
+    text-align:center;
+    width: 50%;
+ }
+ 
+
+ 
+   .h2{
+   margin: 0;
+   padding: 0;
+   box-sizing: border-box;
+   display:flex;
+   justify-content: space-around;
+   text-align:center;
+   margin-bottom: 40%;
+
+ }
+
+.product{
+   width: 45%;
+}
+
+
+
+
+
+
